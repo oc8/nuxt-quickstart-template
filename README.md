@@ -2,7 +2,7 @@
 
 ## Libraries
 
-- Nuxt.js
+- Nuxt3
 - TypeScript
 - Tailwind CSS
 - Tanstack Query
